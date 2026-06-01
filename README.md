@@ -6,6 +6,7 @@ this is a repo which contains solved problems of dsa by me
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya306-hue/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Stack
@@ -32,4 +33,8 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya306-hue/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
