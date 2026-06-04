@@ -64,4 +64,12 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
