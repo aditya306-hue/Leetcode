@@ -55,6 +55,7 @@ this is a repo which contains solved problems of dsa by me
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
@@ -80,13 +81,16 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
