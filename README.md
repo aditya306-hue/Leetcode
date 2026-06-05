@@ -57,6 +57,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0190-reverse-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
@@ -102,4 +103,8 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
