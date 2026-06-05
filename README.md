@@ -16,6 +16,7 @@ this is a repo which contains solved problems of dsa by me
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Greedy
 |  |
@@ -93,4 +94,12 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
