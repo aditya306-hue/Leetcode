@@ -14,6 +14,7 @@ this is a repo which contains solved problems of dsa by me
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Stack
 |  |
@@ -121,4 +122,8 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
