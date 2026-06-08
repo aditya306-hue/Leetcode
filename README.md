@@ -14,6 +14,7 @@ this is a repo which contains solved problems of dsa by me
 | [0059-spiral-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya306-hue/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -51,6 +52,7 @@ this is a repo which contains solved problems of dsa by me
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -195,6 +197,7 @@ this is a repo which contains solved problems of dsa by me
 | [0011-container-with-most-water](https://github.com/aditya306-hue/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
