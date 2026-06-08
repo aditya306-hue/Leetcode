@@ -133,6 +133,7 @@ this is a repo which contains solved problems of dsa by me
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1837-sum-of-digits-in-base-k](https://github.com/aditya306-hue/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya306-hue/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
