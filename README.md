@@ -7,6 +7,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya306-hue/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aditya306-hue/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya306-hue/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -35,6 +36,7 @@ this is a repo which contains solved problems of dsa by me
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya306-hue/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
@@ -169,6 +171,7 @@ this is a repo which contains solved problems of dsa by me
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya306-hue/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
