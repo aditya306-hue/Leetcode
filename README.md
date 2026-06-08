@@ -27,6 +27,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ this is a repo which contains solved problems of dsa by me
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
+| [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## String
