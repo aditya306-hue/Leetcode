@@ -120,6 +120,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya306-hue/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
@@ -127,6 +128,7 @@ this is a repo which contains solved problems of dsa by me
 | [0002-add-two-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aditya306-hue/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aditya306-hue/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
