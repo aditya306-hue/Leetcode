@@ -95,6 +95,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/aditya306-hue/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
