@@ -8,6 +8,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0001-two-sum](https://github.com/aditya306-hue/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditya306-hue/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya306-hue/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aditya306-hue/Leetcode/tree/master/0048-rotate-image) |
@@ -105,6 +106,7 @@ this is a repo which contains solved problems of dsa by me
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
@@ -150,6 +152,7 @@ this is a repo which contains solved problems of dsa by me
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
