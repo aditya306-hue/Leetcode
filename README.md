@@ -19,6 +19,7 @@ this is a repo which contains solved problems of dsa by me
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ this is a repo which contains solved problems of dsa by me
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya306-hue/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
