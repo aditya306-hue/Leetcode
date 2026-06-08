@@ -137,6 +137,7 @@ this is a repo which contains solved problems of dsa by me
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya306-hue/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -211,4 +212,8 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
