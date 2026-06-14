@@ -153,6 +153,7 @@ this is a repo which contains solved problems of dsa by me
 | [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@ this is a repo which contains solved problems of dsa by me
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aditya306-hue/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya306-hue/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -211,6 +213,7 @@ this is a repo which contains solved problems of dsa by me
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
