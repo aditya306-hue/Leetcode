@@ -166,6 +166,7 @@ this is a repo which contains solved problems of dsa by me
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3110-score-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
