@@ -32,6 +32,7 @@ this is a repo which contains solved problems of dsa by me
 | [1480-running-sum-of-1d-array](https://github.com/aditya306-hue/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -103,6 +104,7 @@ this is a repo which contains solved problems of dsa by me
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
