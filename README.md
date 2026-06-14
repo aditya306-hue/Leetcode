@@ -28,6 +28,7 @@ this is a repo which contains solved problems of dsa by me
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya306-hue/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -88,6 +89,7 @@ this is a repo which contains solved problems of dsa by me
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
