@@ -20,6 +20,7 @@ this is a repo which contains solved problems of dsa by me
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aditya306-hue/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -160,6 +161,7 @@ this is a repo which contains solved problems of dsa by me
 | [0048-rotate-image](https://github.com/aditya306-hue/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aditya306-hue/Leetcode/tree/master/0263-ugly-number) |
@@ -256,6 +258,7 @@ this is a repo which contains solved problems of dsa by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
