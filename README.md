@@ -44,6 +44,7 @@ this is a repo which contains solved problems of dsa by me
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya306-hue/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -82,6 +83,7 @@ this is a repo which contains solved problems of dsa by me
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Monotonic Stack
 |  |
@@ -121,6 +123,7 @@ this is a repo which contains solved problems of dsa by me
 | [0074-search-a-2d-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -273,6 +276,7 @@ this is a repo which contains solved problems of dsa by me
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
