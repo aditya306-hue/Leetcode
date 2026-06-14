@@ -170,6 +170,7 @@ this is a repo which contains solved problems of dsa by me
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya306-hue/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
+| [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -225,6 +226,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -250,6 +252,7 @@ this is a repo which contains solved problems of dsa by me
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
