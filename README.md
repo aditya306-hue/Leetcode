@@ -142,6 +142,7 @@ this is a repo which contains solved problems of dsa by me
 | [0191-number-of-1-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/aditya306-hue/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -300,6 +301,7 @@ this is a repo which contains solved problems of dsa by me
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya306-hue/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
 ## String Matching
 |  |
 | ------- |
