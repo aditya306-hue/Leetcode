@@ -67,6 +67,7 @@ this is a repo which contains solved problems of dsa by me
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -207,6 +208,7 @@ this is a repo which contains solved problems of dsa by me
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [1108-defanging-an-ip-address](https://github.com/aditya306-hue/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aditya306-hue/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya306-hue/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
