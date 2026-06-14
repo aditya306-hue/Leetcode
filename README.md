@@ -196,6 +196,7 @@ this is a repo which contains solved problems of dsa by me
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
+| [1108-defanging-an-ip-address](https://github.com/aditya306-hue/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aditya306-hue/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
