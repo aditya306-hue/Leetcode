@@ -35,6 +35,7 @@ this is a repo which contains solved problems of dsa by me
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
