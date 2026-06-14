@@ -146,6 +146,7 @@ this is a repo which contains solved problems of dsa by me
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
@@ -168,6 +169,7 @@ this is a repo which contains solved problems of dsa by me
 | [0014-longest-common-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -180,6 +182,7 @@ this is a repo which contains solved problems of dsa by me
 | [0059-spiral-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
