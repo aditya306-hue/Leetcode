@@ -38,6 +38,7 @@ this is a repo which contains solved problems of dsa by me
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -227,6 +228,7 @@ this is a repo which contains solved problems of dsa by me
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
