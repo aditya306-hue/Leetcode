@@ -65,6 +65,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/aditya306-hue/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -258,10 +259,12 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/aditya306-hue/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/aditya306-hue/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Divide and Conquer
 |  |
 | ------- |
