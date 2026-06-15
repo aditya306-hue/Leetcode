@@ -23,6 +23,7 @@ this is a repo which contains solved problems of dsa by me
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya306-hue/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aditya306-hue/Leetcode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/aditya306-hue/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ this is a repo which contains solved problems of dsa by me
 | [0001-two-sum](https://github.com/aditya306-hue/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/aditya306-hue/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya306-hue/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -210,6 +212,7 @@ this is a repo which contains solved problems of dsa by me
 | [0048-rotate-image](https://github.com/aditya306-hue/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
@@ -418,4 +421,8 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0051-n-queens](https://github.com/aditya306-hue/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0052-n-queens-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
