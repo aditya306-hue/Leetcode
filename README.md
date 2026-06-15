@@ -85,6 +85,7 @@ this is a repo which contains solved problems of dsa by me
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/aditya306-hue/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -218,6 +219,7 @@ this is a repo which contains solved problems of dsa by me
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/aditya306-hue/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya306-hue/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
