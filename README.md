@@ -417,4 +417,5 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aditya306-hue/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
