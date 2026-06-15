@@ -1,43 +1,39 @@
 class Solution {
     public int[][] generateMatrix(int n) {
-        int SpiralMatrix[][] = new int[n][n];
-        int startRow = 0;
-        int startCol = 0;
-        int endRow = n-1;
-        int endCol = n-1;
         int num = 1;
-        while(startRow<=endRow && startCol<=endCol){
-            //top
-            for(int j=startCol; j<=endCol; j++){
-                SpiralMatrix[startRow][j] = num;
+        int arr[][] = new int[n][n];
+        int rowStart = 0;
+        int rowEnd = n - 1;
+        int colStart = 0;
+        int colEnd = n - 1;
+        while(rowStart <= rowEnd && colStart <= colEnd){
+            for(int j = colStart; j <= colEnd; j++){
+                arr[rowStart][j] = num;
                 num++;
             }
-            //Right
-            for(int i=startRow+1; i<=endRow; i++){
-                SpiralMatrix[i][endRow] = num;
+            for(int i = rowStart + 1; i <= rowEnd; i++){
+                arr[i][colEnd] = num;
                 num++;
             }
-            //bottom
-            for(int j=endCol-1; j>=startCol; j--){
-                if(endRow == startRow){
+            for(int j = colEnd - 1; j >= colStart; j--){
+                if(rowStart == rowEnd){
                     break;
                 }
-                SpiralMatrix[endRow][j] = num;
+                arr[rowEnd][j] = num;
                 num++;
             }
-            //left
-            for(int i = endRow-1; i>startRow; i--){
-                if(startCol == endCol){
+            for(int i = rowEnd - 1; i > rowStart; i--){
+                if(colStart == colEnd){
                     break;
                 }
-                SpiralMatrix[i][startCol] = num;
+                arr[i][colStart] = num;
                 num++;
             }
-            startRow++;
-            startCol++;
-            endRow--;
-            endCol--;
+            rowStart++;
+            rowEnd--;
+            colStart++;
+            colEnd--;
         }
-        return SpiralMatrix;
+        return arr;
     }
 }
