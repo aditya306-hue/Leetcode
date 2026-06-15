@@ -71,6 +71,7 @@ this is a repo which contains solved problems of dsa by me
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/aditya306-hue/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya306-hue/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
@@ -176,6 +177,7 @@ this is a repo which contains solved problems of dsa by me
 | [0021-merge-two-sorted-lists](https://github.com/aditya306-hue/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya306-hue/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -185,6 +187,7 @@ this is a repo which contains solved problems of dsa by me
 | [0050-powx-n](https://github.com/aditya306-hue/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
@@ -313,6 +316,7 @@ this is a repo which contains solved problems of dsa by me
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
