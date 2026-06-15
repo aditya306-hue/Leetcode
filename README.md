@@ -17,6 +17,7 @@ this is a repo which contains solved problems of dsa by me
 | [0073-set-matrix-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya306-hue/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/aditya306-hue/Leetcode/tree/master/0136-single-number) |
@@ -272,6 +273,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -345,6 +347,7 @@ this is a repo which contains solved problems of dsa by me
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -359,6 +362,7 @@ this is a repo which contains solved problems of dsa by me
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -366,4 +370,8 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aditya306-hue/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
