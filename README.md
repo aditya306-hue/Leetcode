@@ -52,6 +52,7 @@ this is a repo which contains solved problems of dsa by me
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -147,6 +148,7 @@ this is a repo which contains solved problems of dsa by me
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Binary Search
 |  |
@@ -195,6 +197,7 @@ this is a repo which contains solved problems of dsa by me
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya306-hue/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -286,6 +289,7 @@ this is a repo which contains solved problems of dsa by me
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditya306-hue/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
