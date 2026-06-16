@@ -102,6 +102,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya306-hue/Leetcode/tree/master/0217-contains-duplicate) |
@@ -194,6 +195,7 @@ this is a repo which contains solved problems of dsa by me
 | [0002-add-two-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya306-hue/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya306-hue/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -312,6 +314,7 @@ this is a repo which contains solved problems of dsa by me
 | [0053-maximum-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aditya306-hue/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -345,6 +348,7 @@ this is a repo which contains solved problems of dsa by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aditya306-hue/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
@@ -437,4 +441,8 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
