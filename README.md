@@ -269,6 +269,7 @@ this is a repo which contains solved problems of dsa by me
 | [3110-score-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/aditya306-hue/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya306-hue/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -288,6 +289,7 @@ this is a repo which contains solved problems of dsa by me
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
