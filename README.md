@@ -69,6 +69,7 @@ this is a repo which contains solved problems of dsa by me
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -98,6 +99,7 @@ this is a repo which contains solved problems of dsa by me
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ this is a repo which contains solved problems of dsa by me
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
