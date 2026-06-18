@@ -50,6 +50,7 @@ this is a repo which contains solved problems of dsa by me
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -279,6 +280,7 @@ this is a repo which contains solved problems of dsa by me
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya306-hue/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditya306-hue/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3110-score-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3110-score-of-a-string) |
@@ -302,6 +304,7 @@ this is a repo which contains solved problems of dsa by me
 | [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditya306-hue/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2390-removing-stars-from-a-string) |
