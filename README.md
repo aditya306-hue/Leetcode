@@ -289,6 +289,7 @@ this is a repo which contains solved problems of dsa by me
 | [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya306-hue/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -376,6 +377,7 @@ this is a repo which contains solved problems of dsa by me
 | [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3794-reverse-string-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
