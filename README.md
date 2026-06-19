@@ -186,6 +186,7 @@ this is a repo which contains solved problems of dsa by me
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
