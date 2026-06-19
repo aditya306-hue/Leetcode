@@ -230,6 +230,7 @@ this is a repo which contains solved problems of dsa by me
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/aditya306-hue/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/aditya306-hue/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/aditya306-hue/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
@@ -268,6 +269,7 @@ this is a repo which contains solved problems of dsa by me
 | [0058-length-of-last-word](https://github.com/aditya306-hue/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aditya306-hue/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/aditya306-hue/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/aditya306-hue/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
