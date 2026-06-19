@@ -1,13 +1,9 @@
 class Solution {
     public int minPartitions(String n) {
-        int ans = 0;
-        for(int i=0; i<n.length(); i++){
-            int num = n.charAt(i) - '0';
-            ans = Math.max(ans , num);
-            if(num == 9){
-                return 9;
-            }
+        int maxDeciNum = 0;
+        for(int i  = 0; i < n.length(); i++){
+            maxDeciNum = Math.max(maxDeciNum , n.charAt(i) - '0');
         }
-        return ans;
+        return maxDeciNum;
     }
 }
