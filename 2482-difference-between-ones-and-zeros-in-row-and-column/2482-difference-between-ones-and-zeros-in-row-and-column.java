@@ -1,23 +1,26 @@
 class Solution {
     public int[][] onesMinusZeros(int[][] grid) {
-        int rows = grid.length;
-        int col = grid[0].length;
-        int row_ones[] = new int[rows];
-        int col_ones[] = new int[col];
-        for(int i=0; i<rows; i++){
-            for(int j=0; j<col; j++){
+        int n = grid.length;
+        int m = grid[0].length;
+        //Count Frequency of One;
+        int row[] = new int[n];
+        int col[] = new int[m];
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
                 if(grid[i][j] == 1){
-                    row_ones[i]++;
-                    col_ones[j]++;
+                    row[i]++;
+                    col[j]++;
                 }
             }
         }
-
-        for(int i=0; i<rows; i++){
-            for(int j=0; j<col; j++){
-                grid[i][j] = 2*row_ones[i] + 2* col_ones[j] - rows - col;
+        //Calculating Difference
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                grid[i][j] = 2*(row[i] + col[j]) - n - m;
+                // grid[i][j] = row[i] + col[j] - (n - row[i] + m - col[j]);
             }
         }
         return grid;
+
     }
 }
