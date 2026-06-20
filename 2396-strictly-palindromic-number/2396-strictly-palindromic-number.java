@@ -1,18 +1,19 @@
 class Solution {
     public boolean isStrictlyPalindromic(int n) {
-        for(int i=2; i<=n-2; i++){
-            int num = n;
-            int convertedNum = 0;
-            int converted_rev = 0;
+        for(int i = 2; i < n - 1; i++){
+            int base = i;
+            int num_Copy = n;
+            int numB = 0;
+            int conNum = 0;
             int pow = 0;
-            while(num>0){
-                int lastDigit = num % i;
-                convertedNum = convertedNum * 10 + lastDigit;
-                converted_rev += (int)Math.pow(10 , pow) * lastDigit;
-                num /= i;
+            while(num_Copy != 0){
+                int rem = (num_Copy % base);
+                numB += (int)Math.pow(base , pow) * rem;
+                conNum = conNum * 10 + rem;
+                num_Copy /= base;
                 pow++;
             }
-            if(convertedNum != converted_rev){
+            if(conNum != numB){
                 return false;
             }
         }
