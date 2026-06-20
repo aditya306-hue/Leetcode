@@ -1,7 +1,8 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
-        for(int i=1; i<s.length()-1; i++){
-            if(s.charAt(i) == '0' && s.charAt(i+1) == '1'){
+        for(int i = 0; i < s.length() - 1; i++){
+            // s.substring(i , i + 2).equals("01") 
+            if(s.charAt(i) == '0' && s.charAt(i + 1) == '1'){
                 return false;
             }
         }
