@@ -439,6 +439,7 @@ this is a repo which contains solved problems of dsa by me
 | [3794-reverse-string-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/aditya306-hue/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
