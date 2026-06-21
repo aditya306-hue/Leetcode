@@ -91,6 +91,7 @@ this is a repo which contains solved problems of dsa by me
 | [2553-separate-the-digits-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya306-hue/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -508,6 +509,7 @@ this is a repo which contains solved problems of dsa by me
 | [1480-running-sum-of-1d-array](https://github.com/aditya306-hue/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
