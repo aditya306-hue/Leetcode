@@ -27,6 +27,7 @@ this is a repo which contains solved problems of dsa by me
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aditya306-hue/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya306-hue/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aditya306-hue/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -197,6 +198,7 @@ this is a repo which contains solved problems of dsa by me
 | [0074-search-a-2d-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aditya306-hue/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya306-hue/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -444,6 +446,7 @@ this is a repo which contains solved problems of dsa by me
 | [0075-sort-colors](https://github.com/aditya306-hue/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aditya306-hue/Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya306-hue/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0283-move-zeroes) |
