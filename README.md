@@ -112,6 +112,7 @@ this is a repo which contains solved problems of dsa by me
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya306-hue/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/aditya306-hue/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -268,6 +269,7 @@ this is a repo which contains solved problems of dsa by me
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aditya306-hue/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aditya306-hue/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Trie
 |  |
@@ -454,6 +456,7 @@ this is a repo which contains solved problems of dsa by me
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya306-hue/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
