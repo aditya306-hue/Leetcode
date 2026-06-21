@@ -209,6 +209,7 @@ this is a repo which contains solved problems of dsa by me
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditya306-hue/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aditya306-hue/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/aditya306-hue/Leetcode/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -434,6 +435,7 @@ this is a repo which contains solved problems of dsa by me
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya306-hue/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/aditya306-hue/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aditya306-hue/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
@@ -606,6 +608,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [1534-count-good-triplets](https://github.com/aditya306-hue/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aditya306-hue/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/aditya306-hue/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
