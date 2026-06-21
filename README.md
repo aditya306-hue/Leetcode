@@ -218,6 +218,7 @@ this is a repo which contains solved problems of dsa by me
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aditya306-hue/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya306-hue/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/aditya306-hue/Leetcode/tree/master/3941-password-strength) |
 ## Matrix
 |  |
 | ------- |
@@ -457,6 +458,7 @@ this is a repo which contains solved problems of dsa by me
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/aditya306-hue/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/aditya306-hue/Leetcode/tree/master/3941-password-strength) |
 ## Simulation
 |  |
 | ------- |
