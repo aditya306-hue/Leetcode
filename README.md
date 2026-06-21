@@ -328,6 +328,7 @@ this is a repo which contains solved problems of dsa by me
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya306-hue/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aditya306-hue/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/aditya306-hue/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/aditya306-hue/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -488,6 +489,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/aditya306-hue/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
