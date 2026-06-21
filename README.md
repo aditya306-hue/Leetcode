@@ -236,6 +236,7 @@ this is a repo which contains solved problems of dsa by me
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/aditya306-hue/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya306-hue/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -254,6 +255,7 @@ this is a repo which contains solved problems of dsa by me
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aditya306-hue/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/aditya306-hue/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya306-hue/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
