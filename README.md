@@ -316,6 +316,7 @@ this is a repo which contains solved problems of dsa by me
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aditya306-hue/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya306-hue/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/aditya306-hue/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/aditya306-hue/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/aditya306-hue/Leetcode/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
