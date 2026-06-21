@@ -342,6 +342,7 @@ this is a repo which contains solved problems of dsa by me
 | [2119-a-number-after-a-double-reversal](https://github.com/aditya306-hue/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/aditya306-hue/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/aditya306-hue/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -561,6 +562,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [1534-count-good-triplets](https://github.com/aditya306-hue/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/aditya306-hue/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Counting Sort
