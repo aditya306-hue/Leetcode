@@ -48,6 +48,7 @@ this is a repo which contains solved problems of dsa by me
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -98,6 +99,7 @@ this is a repo which contains solved problems of dsa by me
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/aditya306-hue/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -119,6 +121,7 @@ this is a repo which contains solved problems of dsa by me
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -418,6 +421,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
 |  |
 | ------- |
