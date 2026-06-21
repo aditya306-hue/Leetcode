@@ -68,6 +68,7 @@ this is a repo which contains solved problems of dsa by me
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya306-hue/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3285-find-indices-of-stable-mountains](https://github.com/aditya306-hue/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
