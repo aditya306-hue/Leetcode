@@ -46,6 +46,7 @@ this is a repo which contains solved problems of dsa by me
 | [0896-monotonic-array](https://github.com/aditya306-hue/Leetcode/tree/master/0896-monotonic-array) |
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya306-hue/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1313-decompress-run-length-encoded-list](https://github.com/aditya306-hue/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/aditya306-hue/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
