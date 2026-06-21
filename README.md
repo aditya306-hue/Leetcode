@@ -239,6 +239,7 @@ this is a repo which contains solved problems of dsa by me
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/aditya306-hue/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aditya306-hue/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Trie
 |  |
 | ------- |
@@ -519,6 +520,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Counting Sort
 |  |
 | ------- |
