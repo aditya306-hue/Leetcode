@@ -325,6 +325,7 @@ this is a repo which contains solved problems of dsa by me
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aditya306-hue/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/aditya306-hue/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditya306-hue/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1844-replace-all-digits-with-characters](https://github.com/aditya306-hue/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditya306-hue/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
