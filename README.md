@@ -47,6 +47,7 @@ this is a repo which contains solved problems of dsa by me
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/aditya306-hue/Leetcode/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya306-hue/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/aditya306-hue/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -154,6 +155,7 @@ this is a repo which contains solved problems of dsa by me
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/aditya306-hue/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -223,6 +225,7 @@ this is a repo which contains solved problems of dsa by me
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -455,6 +458,7 @@ this is a repo which contains solved problems of dsa by me
 | [0191-number-of-1-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -543,6 +547,7 @@ this is a repo which contains solved problems of dsa by me
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
@@ -608,8 +613,17 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
