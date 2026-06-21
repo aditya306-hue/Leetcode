@@ -53,6 +53,7 @@ this is a repo which contains solved problems of dsa by me
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/aditya306-hue/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/aditya306-hue/Leetcode/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -212,6 +213,7 @@ this is a repo which contains solved problems of dsa by me
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/aditya306-hue/Leetcode/tree/master/1720-decode-xored-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya306-hue/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/aditya306-hue/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
