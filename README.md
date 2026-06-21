@@ -88,6 +88,7 @@ this is a repo which contains solved problems of dsa by me
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/aditya306-hue/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
