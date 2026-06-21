@@ -85,6 +85,7 @@ this is a repo which contains solved problems of dsa by me
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditya306-hue/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -440,6 +441,7 @@ this is a repo which contains solved problems of dsa by me
 | [2460-apply-operations-to-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/aditya306-hue/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
