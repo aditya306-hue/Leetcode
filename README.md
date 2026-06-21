@@ -407,6 +407,7 @@ this is a repo which contains solved problems of dsa by me
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/aditya306-hue/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/aditya306-hue/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/aditya306-hue/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aditya306-hue/Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/aditya306-hue/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
