@@ -172,6 +172,7 @@ this is a repo which contains solved problems of dsa by me
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2785-sort-vowels-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/aditya306-hue/Leetcode/tree/master/3024-type-of-triangle) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -419,6 +420,7 @@ this is a repo which contains solved problems of dsa by me
 | [2390-removing-stars-from-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
+| [2785-sort-vowels-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/aditya306-hue/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/aditya306-hue/Leetcode/tree/master/2942-find-words-containing-character) |
