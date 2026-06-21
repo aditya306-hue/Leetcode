@@ -54,6 +54,7 @@ this is a repo which contains solved problems of dsa by me
 | [1528-shuffle-string](https://github.com/aditya306-hue/Leetcode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya306-hue/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/aditya306-hue/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -337,6 +338,7 @@ this is a repo which contains solved problems of dsa by me
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/aditya306-hue/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/aditya306-hue/Leetcode/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya306-hue/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aditya306-hue/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
