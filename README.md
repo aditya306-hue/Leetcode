@@ -77,6 +77,7 @@ this is a repo which contains solved problems of dsa by me
 | [2460-apply-operations-to-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/aditya306-hue/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya306-hue/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -194,6 +195,7 @@ this is a repo which contains solved problems of dsa by me
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,6 +309,7 @@ this is a repo which contains solved problems of dsa by me
 | [2469-convert-the-temperature](https://github.com/aditya306-hue/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditya306-hue/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aditya306-hue/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -445,6 +448,7 @@ this is a repo which contains solved problems of dsa by me
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/aditya306-hue/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2614-prime-in-diagonal](https://github.com/aditya306-hue/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
