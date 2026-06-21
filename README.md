@@ -63,6 +63,7 @@ this is a repo which contains solved problems of dsa by me
 | [2798-number-of-employees-who-met-the-target](https://github.com/aditya306-hue/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2942-find-words-containing-character](https://github.com/aditya306-hue/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya306-hue/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -303,6 +304,7 @@ this is a repo which contains solved problems of dsa by me
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
 | [2864-maximum-odd-binary-number](https://github.com/aditya306-hue/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/aditya306-hue/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/aditya306-hue/Leetcode/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/aditya306-hue/Leetcode/tree/master/3280-convert-date-to-binary) |
