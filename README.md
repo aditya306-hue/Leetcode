@@ -111,6 +111,7 @@ this is a repo which contains solved problems of dsa by me
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/aditya306-hue/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
@@ -445,6 +446,7 @@ this is a repo which contains solved problems of dsa by me
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya306-hue/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3925-concatenate-array-with-reverse](https://github.com/aditya306-hue/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
 | ------- |
