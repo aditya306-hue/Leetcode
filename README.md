@@ -65,6 +65,7 @@ this is a repo which contains solved problems of dsa by me
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2942-find-words-containing-character](https://github.com/aditya306-hue/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/aditya306-hue/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya306-hue/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
@@ -151,6 +152,7 @@ this is a repo which contains solved problems of dsa by me
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/aditya306-hue/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya306-hue/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Matrix
