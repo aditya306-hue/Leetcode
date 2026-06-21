@@ -61,6 +61,7 @@ this is a repo which contains solved problems of dsa by me
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aditya306-hue/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aditya306-hue/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/aditya306-hue/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -323,6 +324,7 @@ this is a repo which contains solved problems of dsa by me
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/aditya306-hue/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2000-reverse-prefix-of-word](https://github.com/aditya306-hue/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2390-removing-stars-from-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/aditya306-hue/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
@@ -446,6 +448,7 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/aditya306-hue/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Counting
 |  |
 | ------- |
