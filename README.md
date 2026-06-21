@@ -286,6 +286,7 @@ this is a repo which contains solved problems of dsa by me
 | [3280-convert-date-to-binary](https://github.com/aditya306-hue/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3870-count-commas-in-range](https://github.com/aditya306-hue/Leetcode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
