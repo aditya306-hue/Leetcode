@@ -227,6 +227,7 @@ this is a repo which contains solved problems of dsa by me
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya306-hue/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Math
@@ -247,6 +248,7 @@ this is a repo which contains solved problems of dsa by me
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya306-hue/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0972-equal-rational-numbers](https://github.com/aditya306-hue/Leetcode/tree/master/0972-equal-rational-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya306-hue/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -407,6 +409,7 @@ this is a repo which contains solved problems of dsa by me
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya306-hue/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## String Matching
 |  |
@@ -492,4 +495,8 @@ this is a repo which contains solved problems of dsa by me
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
