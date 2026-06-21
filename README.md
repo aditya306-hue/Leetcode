@@ -90,6 +90,7 @@ this is a repo which contains solved problems of dsa by me
 | [2942-find-words-containing-character](https://github.com/aditya306-hue/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aditya306-hue/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditya306-hue/Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aditya306-hue/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aditya306-hue/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aditya306-hue/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -180,6 +181,7 @@ this is a repo which contains solved problems of dsa by me
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditya306-hue/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2716-minimize-string-length](https://github.com/aditya306-hue/Leetcode/tree/master/2716-minimize-string-length) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aditya306-hue/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aditya306-hue/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/aditya306-hue/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aditya306-hue/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -240,6 +242,7 @@ this is a repo which contains solved problems of dsa by me
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/aditya306-hue/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/aditya306-hue/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/aditya306-hue/Leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/aditya306-hue/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
 ## Trie
 |  |
