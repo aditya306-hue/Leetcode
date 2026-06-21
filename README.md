@@ -224,6 +224,7 @@ this is a repo which contains solved problems of dsa by me
 | [0201-bitwise-and-of-numbers-range](https://github.com/aditya306-hue/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/aditya306-hue/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -270,6 +271,7 @@ this is a repo which contains solved problems of dsa by me
 | [0231-power-of-two](https://github.com/aditya306-hue/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/aditya306-hue/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aditya306-hue/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aditya306-hue/Leetcode/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/aditya306-hue/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -289,6 +291,7 @@ this is a repo which contains solved problems of dsa by me
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/aditya306-hue/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aditya306-hue/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/aditya306-hue/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya306-hue/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
