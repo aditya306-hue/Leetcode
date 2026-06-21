@@ -44,6 +44,7 @@ this is a repo which contains solved problems of dsa by me
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya306-hue/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/aditya306-hue/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/aditya306-hue/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/aditya306-hue/Leetcode/tree/master/0724-find-pivot-index) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -231,6 +232,7 @@ this is a repo which contains solved problems of dsa by me
 | [0268-missing-number](https://github.com/aditya306-hue/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya306-hue/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/aditya306-hue/Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
