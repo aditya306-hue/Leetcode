@@ -243,6 +243,7 @@ this is a repo which contains solved problems of dsa by me
 | [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aditya306-hue/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2326-spiral-matrix-iv](https://github.com/aditya306-hue/Leetcode/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
