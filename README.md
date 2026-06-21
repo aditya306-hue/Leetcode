@@ -78,6 +78,7 @@ this is a repo which contains solved problems of dsa by me
 | [1920-build-array-from-permutation](https://github.com/aditya306-hue/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya306-hue/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/aditya306-hue/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aditya306-hue/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/aditya306-hue/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/aditya306-hue/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -508,6 +509,7 @@ this is a repo which contains solved problems of dsa by me
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya306-hue/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/aditya306-hue/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aditya306-hue/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Number Theory
