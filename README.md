@@ -331,6 +331,7 @@ this is a repo which contains solved problems of dsa by me
 | [3110-score-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3110-score-of-a-string) |
 | [3136-valid-word](https://github.com/aditya306-hue/Leetcode/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/aditya306-hue/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/aditya306-hue/Leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
