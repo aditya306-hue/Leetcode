@@ -314,6 +314,7 @@ this is a repo which contains solved problems of dsa by me
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya306-hue/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
+| [2119-a-number-after-a-double-reversal](https://github.com/aditya306-hue/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/aditya306-hue/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/aditya306-hue/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/aditya306-hue/Leetcode/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
