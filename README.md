@@ -202,6 +202,7 @@ this is a repo which contains solved problems of dsa by me
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1486-xor-operation-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya306-hue/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/aditya306-hue/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
@@ -263,6 +264,7 @@ this is a repo which contains solved problems of dsa by me
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aditya306-hue/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/aditya306-hue/Leetcode/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aditya306-hue/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/aditya306-hue/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1837-sum-of-digits-in-base-k](https://github.com/aditya306-hue/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
