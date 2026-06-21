@@ -44,6 +44,7 @@ this is a repo which contains solved problems of dsa by me
 | [0724-find-pivot-index](https://github.com/aditya306-hue/Leetcode/tree/master/0724-find-pivot-index) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/aditya306-hue/Leetcode/tree/master/0896-monotonic-array) |
@@ -202,6 +203,7 @@ this is a repo which contains solved problems of dsa by me
 | [0074-search-a-2d-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -243,6 +245,7 @@ this is a repo which contains solved problems of dsa by me
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aditya306-hue/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/aditya306-hue/Leetcode/tree/master/1720-decode-xored-array) |
@@ -419,6 +422,7 @@ this is a repo which contains solved problems of dsa by me
 | [0258-add-digits](https://github.com/aditya306-hue/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aditya306-hue/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya306-hue/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -507,6 +511,7 @@ this is a repo which contains solved problems of dsa by me
 | [0283-move-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aditya306-hue/Leetcode/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/aditya306-hue/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0917-reverse-only-letters) |
