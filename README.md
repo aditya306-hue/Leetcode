@@ -58,6 +58,7 @@ this is a repo which contains solved problems of dsa by me
 | [1480-running-sum-of-1d-array](https://github.com/aditya306-hue/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/aditya306-hue/Leetcode/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/aditya306-hue/Leetcode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/aditya306-hue/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditya306-hue/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -545,6 +546,7 @@ this is a repo which contains solved problems of dsa by me
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/aditya306-hue/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/aditya306-hue/Leetcode/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/aditya306-hue/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3827-count-monobit-integers](https://github.com/aditya306-hue/Leetcode/tree/master/3827-count-monobit-integers) |
