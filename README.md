@@ -32,6 +32,7 @@ this is a repo which contains solved problems of dsa by me
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya306-hue/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya306-hue/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -402,6 +403,7 @@ this is a repo which contains solved problems of dsa by me
 | [0148-sort-list](https://github.com/aditya306-hue/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aditya306-hue/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aditya306-hue/Leetcode/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/aditya306-hue/Leetcode/tree/master/0844-backspace-string-compare) |
