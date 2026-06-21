@@ -329,6 +329,7 @@ this is a repo which contains solved problems of dsa by me
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya306-hue/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/aditya306-hue/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya306-hue/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/aditya306-hue/Leetcode/tree/master/3870-count-commas-in-range) |
 ## String
@@ -415,6 +416,7 @@ this is a repo which contains solved problems of dsa by me
 | [3612-process-string-with-special-operations-i](https://github.com/aditya306-hue/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3701-compute-alternating-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/aditya306-hue/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/aditya306-hue/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Design
