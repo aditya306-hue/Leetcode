@@ -172,6 +172,7 @@ this is a repo which contains solved problems of dsa by me
 | [0242-valid-anagram](https://github.com/aditya306-hue/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya306-hue/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/aditya306-hue/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/aditya306-hue/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -205,6 +206,7 @@ this is a repo which contains solved problems of dsa by me
 | [0242-valid-anagram](https://github.com/aditya306-hue/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aditya306-hue/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aditya306-hue/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -272,6 +274,7 @@ this is a repo which contains solved problems of dsa by me
 | [0287-find-the-duplicate-number](https://github.com/aditya306-hue/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aditya306-hue/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/aditya306-hue/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/aditya306-hue/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/aditya306-hue/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -404,6 +407,7 @@ this is a repo which contains solved problems of dsa by me
 | [0344-reverse-string](https://github.com/aditya306-hue/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aditya306-hue/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/aditya306-hue/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/aditya306-hue/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/aditya306-hue/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/aditya306-hue/Leetcode/tree/master/0443-string-compression) |
