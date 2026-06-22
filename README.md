@@ -74,6 +74,7 @@ this is a repo which contains solved problems of dsa by me
 | [1672-richest-customer-wealth](https://github.com/aditya306-hue/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/aditya306-hue/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/aditya306-hue/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/aditya306-hue/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/aditya306-hue/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/aditya306-hue/Leetcode/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya306-hue/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -212,6 +213,7 @@ this is a repo which contains solved problems of dsa by me
 | [1189-maximum-number-of-balloons](https://github.com/aditya306-hue/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya306-hue/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/aditya306-hue/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditya306-hue/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aditya306-hue/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/aditya306-hue/Leetcode/tree/master/2540-minimum-common-value) |
@@ -618,6 +620,7 @@ this is a repo which contains solved problems of dsa by me
 | [1189-maximum-number-of-balloons](https://github.com/aditya306-hue/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/aditya306-hue/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aditya306-hue/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1748-sum-of-unique-elements](https://github.com/aditya306-hue/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aditya306-hue/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
