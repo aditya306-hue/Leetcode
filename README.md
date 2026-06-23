@@ -37,6 +37,7 @@ this is a repo which contains solved problems of dsa by me
 | [0189-rotate-array](https://github.com/aditya306-hue/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aditya306-hue/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aditya306-hue/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya306-hue/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/aditya306-hue/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya306-hue/Leetcode/tree/master/0283-move-zeroes) |
@@ -545,6 +546,7 @@ this is a repo which contains solved problems of dsa by me
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya306-hue/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aditya306-hue/Leetcode/tree/master/0724-find-pivot-index) |
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya306-hue/Leetcode/tree/master/1480-running-sum-of-1d-array) |
