@@ -53,6 +53,7 @@ this is a repo which contains solved problems of dsa by me
 | [0810-chalkboard-xor-game](https://github.com/aditya306-hue/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/aditya306-hue/Leetcode/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/aditya306-hue/Leetcode/tree/master/0848-shifting-letters) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya306-hue/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/aditya306-hue/Leetcode/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/aditya306-hue/Leetcode/tree/master/0912-sort-an-array) |
@@ -260,6 +261,7 @@ this is a repo which contains solved problems of dsa by me
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya306-hue/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya306-hue/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya306-hue/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aditya306-hue/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/aditya306-hue/Leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditya306-hue/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
