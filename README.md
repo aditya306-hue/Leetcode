@@ -192,6 +192,7 @@ this is a repo which contains solved problems of dsa by me
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/aditya306-hue/Leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/aditya306-hue/Leetcode/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3467-transform-array-by-parity](https://github.com/aditya306-hue/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/aditya306-hue/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya306-hue/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
@@ -398,6 +399,7 @@ this is a repo which contains solved problems of dsa by me
 | [3280-convert-date-to-binary](https://github.com/aditya306-hue/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aditya306-hue/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aditya306-hue/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/aditya306-hue/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya306-hue/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/aditya306-hue/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditya306-hue/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
